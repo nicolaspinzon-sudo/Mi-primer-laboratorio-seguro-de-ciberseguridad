@@ -6,8 +6,8 @@
 ### Elegí la RED NAT porque los equipos externos de la red no ven la máquina virtual directamente, protegiéndola de ataques.
 # Capa Windows: Usuarios y Actualizaciones
 ### Usuarios
-![]()
+![Usuarios](https://github.com/nicolaspinzon-sudo/Mi-primer-laboratorio-seguro-de-ciberseguridad/blob/eeffd9b5f83d8a28b05df260083a8ffaa87d2460/Usuarios.png)
 ### Usuario Administrador
-![]()
+![Usuario Administrador]()
 ### Usuario Estándar
-![]()
+![Usuario Estandar]()
