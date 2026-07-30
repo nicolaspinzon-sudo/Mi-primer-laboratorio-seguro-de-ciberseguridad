@@ -14,4 +14,5 @@
 ![Usuario Estandar](https://github.com/nicolaspinzon-sudo/Mi-primer-laboratorio-seguro-de-ciberseguridad/blob/d647666d1d9c0d8a712dc470479f4f0604dd2251/Usuario%20Estandar.png)
 #
 # Snapshots
-![Hardening Incial]()
+![Apagando el quipo]()
+![Hardening Inicial](https://github.com/nicolaspinzon-sudo/Mi-primer-laboratorio-seguro-de-ciberseguridad/blob/da1c1db6850b6a27e23fd8ceec1e5eb919bcdfdf/Snapshot.png)
