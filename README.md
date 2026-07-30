@@ -10,4 +10,4 @@
 ### Usuario Administrador
 ![Usuario Administrador](https://github.com/nicolaspinzon-sudo/Mi-primer-laboratorio-seguro-de-ciberseguridad/blob/4f070f70d95ca7d46cfeb4fa33262da8a9ce6658/Usuario%20Administrador.png)
 ### Usuario Estándar
-![Usuario Estandar]()
+![Usuario Estandar](https://github.com/nicolaspinzon-sudo/Mi-primer-laboratorio-seguro-de-ciberseguridad/blob/d647666d1d9c0d8a712dc470479f4f0604dd2251/Usuario%20Estandar.png)
