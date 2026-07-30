@@ -7,7 +7,7 @@
 #
 # Capa Windows: Usuarios y Actualizaciones
 ### Sistema Actualizado
-![Sistema Actualizado]()
+![Sistema Actualizado](https://github.com/nicolaspinzon-sudo/Mi-primer-laboratorio-seguro-de-ciberseguridad/blob/c4a1273de2cd4045b1f039b8eb467b36e498555c/Actualizaciones%20al%20dia.png)
 ### Usuarios
 ![Usuarios](https://github.com/nicolaspinzon-sudo/Mi-primer-laboratorio-seguro-de-ciberseguridad/blob/eeffd9b5f83d8a28b05df260083a8ffaa87d2460/Usuarios.png)
 ### Usuario Administrador
