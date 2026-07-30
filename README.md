@@ -8,13 +8,18 @@
 # Capa Windows: Usuarios y Actualizaciones
 ### Sistema Actualizado
 ![Sistema Actualizado](https://github.com/nicolaspinzon-sudo/Mi-primer-laboratorio-seguro-de-ciberseguridad/blob/c4a1273de2cd4045b1f039b8eb467b36e498555c/Actualizaciones%20al%20dia.png)
+### Artualice el sistema para prevenir ataques de personas malintencionadas, es mas difícil que puedan acceder a mi maquina si cuento con todas las actualizaciones al dia
 ### Usuarios
 ![Usuarios](https://github.com/nicolaspinzon-sudo/Mi-primer-laboratorio-seguro-de-ciberseguridad/blob/eeffd9b5f83d8a28b05df260083a8ffaa87d2460/Usuarios.png)
+### Aca podemos ver los usuarios que tiene mi sistema de Windows 10, tengo el usuario administrador y un usuario estandar
 ### Usuario Administrador
 ![Usuario Administrador](https://github.com/nicolaspinzon-sudo/Mi-primer-laboratorio-seguro-de-ciberseguridad/blob/4f070f70d95ca7d46cfeb4fa33262da8a9ce6658/Usuario%20Administrador.png)
+### Acá se visualiza que este es el usuario administrador, muchas veces no debemos utilizarlo por seguridad por ende debemos crear el usuario seguro que es el ambiente donde realizaremos nuestras pruebas
 ### Usuario Estándar
 ![Usuario Estandar](https://github.com/nicolaspinzon-sudo/Mi-primer-laboratorio-seguro-de-ciberseguridad/blob/d647666d1d9c0d8a712dc470479f4f0604dd2251/Usuario%20Estandar.png)
+### Este es el usuario estándar es el ambiente correcto para poder realizar nuestras pruebas este es nuestro laboratorio
 #
 # Snapshots
 ![Apagando el quipo](https://github.com/nicolaspinzon-sudo/Mi-primer-laboratorio-seguro-de-ciberseguridad/blob/6070c41d58bc28df58d9ad4e21c5e4ae1c9ab10e/Apagando%20el%20equipo.png)
 ![Hardening Inicial](https://github.com/nicolaspinzon-sudo/Mi-primer-laboratorio-seguro-de-ciberseguridad/blob/da1c1db6850b6a27e23fd8ceec1e5eb919bcdfdf/Snapshot.png)
+### Este es el Snapshot donde nuestra maquina esta lista para comenzar nuestras pruebas, tenemos actualizaciones al dia, y un usuario estandar.
